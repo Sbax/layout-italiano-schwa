@@ -36,6 +36,8 @@ Per digitare lo schwa ə con il nuovo layout tastiera, basta premere i tasti `op
 
 11. **Per digitare lo schwa ə con il nuovo layout tastiera, basta premere i tasti** `option (⌥) + a`. **Per lo schwa maiuscolo Ə, la combinazione di tasti è** `option (⌥) + shift (maiuscolo) + a`.
 
+12. ***Per digitare la schwa lunga ɜ con il nuovo layout tastiera, basta premere i tasti** `option (⌥) + control (⌃) + e`.
+
 ## Info sul layout
 Il layout è stato creato con [sillsdev/Ukelele](https://github.com/sillsdev/Ukelele), a partire dal layout tastiera italiano di default.
 
